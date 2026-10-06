@@ -7,6 +7,7 @@ A small, hand-picked list of **free web tools** — no signup, no fuss. Bookmark
 
 ## 🔢 Everyday Utilities
 
+- **[Slovenian Follower-Growth Calculator](https://nakupsladilcev.si/tools/follower-growth)** — Calculate the required net follower difference and daily/weekly averages from a current count, target and days. Free, no signup; Slovenian interface.
 - **[Online Counter](https://onlinecounter.org)** — A free online tally / click counter for counting anything right in your browser.
 - **[Bulk Barcode Generator](https://bulkbarcodegenerator.pro/)** — Generate many barcodes at once (Code 128, EAN, QR, and more) and export them in bulk.
 
